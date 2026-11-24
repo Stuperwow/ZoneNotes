@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: ZoneNotes
+## Notes: Reminder notes that pop up when you enter a zone, an Auction House city or an inn. /zn
+## Author: Tim
+## Version: 1.1.0
+## SavedVariables: ZoneNotesDB
+## IconTexture: Interface\AddOns\ZoneNotes\ZoneNotes.tga
+
+ZoneNotes.lua
